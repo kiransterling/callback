@@ -1,1 +1,1 @@
-34634 
+system.out.println("Hello Java");
